@@ -1,7 +1,8 @@
 # kuontum_kamputing
 Everything that I've learnt/learning about Quantum Computing
 
-Project 1: QuanTicTactics!
+Project 0: QuanStyle! - https://www.youtube.com/watch?v=JtsmoS7vXYA&list=PLJk_IGUjQllcYPHhuzIUZMsu9hD48BiK0&index=3
+Project 1: QuanTicTactics! - https://www.youtube.com/watch?v=DeFzlOJeWI0&list=PLJk_IGUjQllcYPHhuzIUZMsu9hD48BiK0&index=2&pp=iAQB
 
 Resources: 
 1. https://github.com/rigetti/pyquil#citing-pyquil-forest-and-quantum-cloud-services
